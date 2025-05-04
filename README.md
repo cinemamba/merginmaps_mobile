@@ -27,9 +27,11 @@ Citation link:
 Mergin Maps mobile app (formerly known as Input app) makes surveying of geospatial data easy. You can design your survey project in QGIS with custom forms.
 
 ## Download
+
 Click below to download the app on your mobile device:
 
 **Current Release**
+
 <p>
 <a href='https://play.google.com/store/apps/details?id=uk.co.lutraconsulting&ah=GSqwibzO2n63iMlCjHmMuBk89t4&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/MerginMaps/.github/main/images/google-play-store.png' height="57" /></a>
 <a href='https://apps.apple.com/us/app/input/id1478603559?ls=1'><img alt='Download it from TestFlight' src='https://raw.githubusercontent.com/MerginMaps/.github/main/images/app-store.png' width="170" /></a>
@@ -37,6 +39,7 @@ Click below to download the app on your mobile device:
 </p>
 
 **Beta Release**
+
 <p>
 <a href='https://play.google.com/apps/testing/uk.co.lutraconsulting'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/MerginMaps/.github/main/images/google-play-store.png' height="28.5" /></a>
 <a href='https://testflight.apple.com/join/JO5EIywn'><img alt='Download it from TestFlight' src='https://raw.githubusercontent.com/MerginMaps/.github/main/images/app-store.png' width="85" /></a>
@@ -68,13 +71,13 @@ Mergin Maps mobile app features touch optimised GUI components based on Qt Quick
 
 <div><a href="https://merginmaps.com/product"><img src="https://raw.githubusercontent.com/MerginMaps/.github/main/images/mm_app-1-800x600.jpg"></div>
 
-## Documentation
+## [Documentation](https://merginmaps.com/product)
 
-Read more about the app [https://merginmaps.com/docs](https://merginmaps.com/docs)
+[Read more about the app ](https://merginmaps.com/product)[https://merginmaps.com/docs](https://merginmaps.com/docs)
 
 ## Developers
 
-To setup your development environment, read [INSTALL](./INSTALL.md)
+To setu your development environment, read [INSTALL](./INSTALL.md)
 
 New sub-project 'gallery' app is used to develop/design all UI components, used in the Mergin Maps app
 
@@ -83,4 +86,5 @@ New sub-project 'gallery' app is used to develop/design all UI components, used 
 To learn about our code conventions, please see the [code conventions](./docs/code_convention.md) file.
 
 ## Privacy policy
+
 Read more about the app privacy policy [here](https://merginmaps.com/docs/reference/privacy/)
